@@ -93,8 +93,7 @@ The reported experiments use the following default settings: input length 10, fo
 ```text
 MAGNET/
 |-- dataset/                     raw market and auxiliary benchmark data
-|-- model/
-|   `-- Ours_MAGNET/             MAGNET implementation
+|-- model/                       MAGNET implementation
 |-- main.py                      main training and evaluation script
 `-- README.md
 ```
